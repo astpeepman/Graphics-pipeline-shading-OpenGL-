@@ -1,0 +1,54 @@
+newmtl CrunchFlakes_Front
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	map_Kd CrunchFlakes_Front.png
+
+newmtl CrunchFlakes_Bottom
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	map_Kd CrunchFlakes_Bottom.png
+
+newmtl CrunchFlakes_Top
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	map_Kd CrunchFlakes_Top.png
+
+newmtl CrunchFlakes_Side
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	map_Kd CrunchFlakes_Side.png
+
+newmtl CrunchFlakes_Side_2
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.2000 0.2000 0.2000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.1000 0.1000 0.1000
+	map_Kd CrunchFlakes_Side_2.png

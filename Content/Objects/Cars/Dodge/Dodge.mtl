@@ -1,0 +1,256 @@
+newmtl wheel__env_9_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd black.png
+
+newmtl bremo__env_4_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd bremo.png
+
+newmtl dunlop
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd dunlop.png
+
+newmtl logowheel__spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd logowheel.png
+
+newmtl glass_light__env_12_spec_trans_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd glass_light.png
+
+newmtl black__env_9_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd black.png
+
+newmtl blackleath.png
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd black.png
+
+newmtl glassd__env_9_spec_trans_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd glassd.png
+
+newmtl remapalphabody256__prim_env_14_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd remapalphabody256.png
+
+newmtl setca__env_2_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd Setca.png
+
+newmtl vehiclelights__spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd lights.png
+
+newmtl grey__env_14_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd grey.png
+
+newmtl redwood
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd Redwood.png
+
+
+newmtl leathorange
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd Leathorange.png
+
+
+newmtl black
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd black.png
+
+
+newmtl grille__env_4_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd grille.png
+
+newmtl lines__sec_env_14_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd lines.png
+
+newmtl  logoalpha__env_9_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd logoalpha.png
+
+newmtl  nodamage__env_14_spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd nodamage.png
+
+
+newmtl  interior__spec_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd interior.png
+
+newmtl  vehiclelights__spec_trans_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd lights.png
+
+newmtl  vehiclelights__spec_trans_
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd lights.png
+
+newmtl  Material_001
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+	map_Kd 1.png

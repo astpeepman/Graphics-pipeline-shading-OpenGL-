@@ -1,0 +1,14 @@
+# Blender MTL File: 'Free model Drawer(Final) .blend'
+# Material Count: 1
+
+newmtl Free_Drawer__textures
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+map_Kd texture_diffuse1.png
+map_Ks texture_specular1.jpg
+illum 2

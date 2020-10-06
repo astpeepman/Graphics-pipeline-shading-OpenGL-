@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab2_OpenGLGraphics.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Quad.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="LightCube.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeObject.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="SphereObject.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyBox.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Cone.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Cylinder.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="InstanModel.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libs.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Quad.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="3dMath.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane_VS.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera_FS.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="LightCube.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeObject.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="SphereObject.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyBox.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Cone.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Cylinder.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="InstanModel.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment_shader_Gradient.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="vertex_shader_Gradient.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="vertex_shader_texture.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="fragment_shader_texture.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Plane_FS.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Camera_VS.glsl">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="lightingShader.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="lightingShader.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="lampShader.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="lampShader.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="sun.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="sun.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Skybox.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Skybox.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="multiLight.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="multiLight.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="AnimScene.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="AnimScene.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Plane.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Plane.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="model.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="model.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="floor.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="floor.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Rocks_Instan.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="Rocks_Instan.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="model2.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="model2.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="framebuffers_screen.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="framebuffers_screen.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="StaticScene.vs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="StaticScene.fs">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+</Project>

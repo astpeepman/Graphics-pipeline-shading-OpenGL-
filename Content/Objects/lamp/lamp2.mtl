@@ -1,0 +1,41 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl wire_000000000
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse1.jpg
+map_Ks texture_diffuse1_SPEC.jpg
+map_Bump texture_diffuse1_NRM.jpg
+
+newmtl wire_143225087
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800800 0.882400 0.800800
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse2.jpg
+map_Ks texture_diffuse2_SPEC.jpg
+map_Bump texture_diffuse2_NRM.jpg
+
+newmtl wire_224086086
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.878400 0.337300 0.337300
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse3.jpg
+map_Ks texture_diffuse3_SPEC.jpg
+map_Bump texture_diffuse3_NRM.jpg

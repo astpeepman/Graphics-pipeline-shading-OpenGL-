@@ -1,0 +1,145 @@
+# Blender MTL File: 'None'
+# Material Count: 11
+
+newmtl Material.002
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.003
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.016711 0.016711 0.016711
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.004
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.005
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.018410 0.018410 0.018410
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.006
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.218378 0.218378 0.218378
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.007
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.016711 0.016711 0.016711
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.008
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.046743 0.046743 0.046743
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.009
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.033089 0.033089 0.033089
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump textures\\nor.png
+map_Kd textures\\texture_diffuse2.png
+map_Ks textures\\texture_diffuse2.png
+
+newmtl Material.011
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump tumb_NRM.jpg
+map_Kd tumb.jpg
+map_Ks tumb_SPEC.jpg
+
+newmtl Material.012
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump ruchki_NRM.jpg
+map_Kd ruchki.jpg
+map_Ks ruchki_SPEC.jpg
+
+newmtl Material.013
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump ruchki_NRM.jpg
+map_Kd ruchki.jpg
+map_Ks ruchki_SPEC.jpg
